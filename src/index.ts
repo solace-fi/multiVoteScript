@@ -1,3 +1,5 @@
+import { multiVote } from './utils';
+
 async function main() {
   console.time('script_run_time');
 }
